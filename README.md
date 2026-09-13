@@ -43,10 +43,3 @@ The workspace is divided into four highly modular packages:
     sudo apt install ros-humble-ros2-control ros-humble-ros2-controllers ros-humble-gazebo-ros2-control ros-humble-xacro
     ```
 
-## 🚀 Installation & Build
-
-1. **Clone the repository into your ROS 2 workspace:**
-   ```bash
-   mkdir -p ~/bot_ws/src
-   cd ~/bot_ws/src
-   git clone <YOUR_GITHUB_REPO_URL_HERE>
