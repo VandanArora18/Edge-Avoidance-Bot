@@ -11,7 +11,9 @@ A complete ROS 2 (Humble) simulation package for an autonomous, differential-dri
 <!-- 
 =====================================================
 [VIDEO PLACEHOLDER]
-Drag and drop your .mp4 video file right here in the GitHub web editor!
+Drag and drop your .mp4 vide
+
+o file right here in the GitHub web editor!
 =====================================================
 -->
 
