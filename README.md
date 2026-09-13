@@ -7,8 +7,8 @@
 A complete ROS 2 (Humble) simulation package for an autonomous, differential-drive mobile robot. Built from scratch using URDF and Xacro, this robot operates in a Gazebo environment and utilizes a downward-facing LiDAR sensor to detect table edges (cliffs), ensuring it never falls off its platform.
 
 ## 🎥 Demo
-<img src="demo/Demo.mp4" >
 
+https://github.com/user-attachments/assets/3e1f2537-1c4b-4deb-99b4-24e4c7a28094
 <!-- 
 =====================================================
 [VIDEO PLACEHOLDER]
