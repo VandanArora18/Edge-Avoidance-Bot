@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/bot_script/bot_script.egg-info/PKG-INFO
+../../build/bot_script/bot_script.egg-info/SOURCES.txt
+../../build/bot_script/bot_script.egg-info/dependency_links.txt
+../../build/bot_script/bot_script.egg-info/entry_points.txt
+../../build/bot_script/bot_script.egg-info/requires.txt
+../../build/bot_script/bot_script.egg-info/top_level.txt
+../../build/bot_script/bot_script.egg-info/zip-safe
+bot_script/__init__.py
+bot_script/edge_detection.py
+resource/bot_script
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
