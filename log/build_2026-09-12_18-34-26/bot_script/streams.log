@@ -1,0 +1,29 @@
+[0.689s] Invoking command in '/home/user/bot_ws/src/bot_script': PYTHONPATH=/home/user/bot_ws/build/bot_script/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_script build --build-base /home/user/bot_ws/build/bot_script/build install --record /home/user/bot_ws/build/bot_script/install.log --single-version-externally-managed install_data
+[0.844s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.844s]   warnings.warn(msg)
+[0.953s] running egg_info
+[0.970s] writing ../../build/bot_script/bot_script.egg-info/PKG-INFO
+[0.971s] writing dependency_links to ../../build/bot_script/bot_script.egg-info/dependency_links.txt
+[0.971s] writing entry points to ../../build/bot_script/bot_script.egg-info/entry_points.txt
+[0.971s] writing requirements to ../../build/bot_script/bot_script.egg-info/requires.txt
+[0.971s] writing top-level names to ../../build/bot_script/bot_script.egg-info/top_level.txt
+[1.008s] reading manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+[1.009s] writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+[1.010s] running build
+[1.010s] running build_py
+[1.010s] copying bot_script/__init__.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+[1.010s] copying bot_script/edge_detection.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+[1.010s] running install
+[1.015s] running install_lib
+[1.035s] copying /home/user/bot_ws/build/bot_script/build/lib/bot_script/edge_detection.py -> /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+[1.036s] byte-compiling /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script/edge_detection.py to edge_detection.cpython-310.pyc
+[1.036s] running install_data
+[1.036s] copying resource/bot_script -> /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+[1.037s] copying package.xml -> /home/user/bot_ws/install/bot_script/share/bot_script
+[1.037s] running install_egg_info
+[1.057s] removing '/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info' (and everything under it)
+[1.057s] Copying ../../build/bot_script/bot_script.egg-info to /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info
+[1.058s] running install_scripts
+[1.096s] Installing edge_detection script to /home/user/bot_ws/install/bot_script/lib/bot_script
+[1.096s] writing list of installed files to '/home/user/bot_ws/build/bot_script/install.log'
+[1.122s] Invoked command in '/home/user/bot_ws/src/bot_script' returned '0': PYTHONPATH=/home/user/bot_ws/build/bot_script/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_script build --build-base /home/user/bot_ws/build/bot_script/build install --record /home/user/bot_ws/build/bot_script/install.log --single-version-externally-managed install_data

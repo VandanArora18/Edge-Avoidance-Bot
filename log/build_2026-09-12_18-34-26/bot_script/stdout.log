@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/bot_script/bot_script.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_script/bot_script.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_script/bot_script.egg-info/entry_points.txt
+writing requirements to ../../build/bot_script/bot_script.egg-info/requires.txt
+writing top-level names to ../../build/bot_script/bot_script.egg-info/top_level.txt
+reading manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bot_script/__init__.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+copying bot_script/edge_detection.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+running install
+running install_lib
+copying /home/user/bot_ws/build/bot_script/build/lib/bot_script/edge_detection.py -> /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+byte-compiling /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script/edge_detection.py to edge_detection.cpython-310.pyc
+running install_data
+copying resource/bot_script -> /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/bot_ws/install/bot_script/share/bot_script
+running install_egg_info
+removing '/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/bot_script/bot_script.egg-info to /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info
+running install_scripts
+Installing edge_detection script to /home/user/bot_ws/install/bot_script/lib/bot_script
+writing list of installed files to '/home/user/bot_ws/build/bot_script/install.log'
