@@ -1,0 +1,68 @@
+[0.017s] Invoking command in '/home/user/bot_ws/build/bot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/bot_ws/src/bot_controller -DCMAKE_INSTALL_PREFIX=/home/user/bot_ws/install/bot_controller
+[0.268s] -- The C compiler identification is GNU 11.4.0
+[0.464s] -- The CXX compiler identification is GNU 11.4.0
+[0.473s] -- Detecting C compiler ABI info
+[0.548s] -- Detecting C compiler ABI info - done
+[0.557s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.558s] -- Detecting C compile features
+[0.558s] -- Detecting C compile features - done
+[0.562s] -- Detecting CXX compiler ABI info
+[0.645s] -- Detecting CXX compiler ABI info - done
+[0.655s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.655s] -- Detecting CXX compile features
+[0.656s] -- Detecting CXX compile features - done
+[0.663s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.054s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.192s] -- Found rclcpp: 16.0.16 (/opt/ros/humble/share/rclcpp/cmake)
+[1.331s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.346s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.374s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.416s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.462s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.617s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.630s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.820s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.865s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.931s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.963s] -- Looking for pthread.h
+[2.068s] -- Looking for pthread.h - found
+[2.068s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.145s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.146s] -- Found Threads: TRUE  
+[2.306s] -- Found rclpy: 3.3.19 (/opt/ros/humble/share/rclpy/cmake)
+[2.314s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.362s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.406s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.450s] -- Found tf2_ros: 0.25.17 (/opt/ros/humble/share/tf2_ros/cmake)
+[2.769s] -- Found trajectory_msgs: 4.9.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[2.811s] -- Found twist_mux_msgs: 3.0.1 (/opt/ros/humble/share/twist_mux_msgs/cmake)
+[2.910s] -- Configuring done
+[2.917s] -- Generating done
+[2.920s] -- Build files have been written to: /home/user/bot_ws/build/bot_controller
+[2.932s] Invoked command in '/home/user/bot_ws/build/bot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/bot_ws/src/bot_controller -DCMAKE_INSTALL_PREFIX=/home/user/bot_ws/install/bot_controller
+[2.935s] Invoking command in '/home/user/bot_ws/build/bot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_controller -- -j8 -l8
+[2.972s] Invoked command in '/home/user/bot_ws/build/bot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_controller -- -j8 -l8
+[2.975s] Invoking command in '/home/user/bot_ws/build/bot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_controller
+[2.981s] -- Install configuration: ""
+[2.981s] -- Installing: /home/user/bot_ws/install/bot_controller/include/include
+[2.981s] -- Installing: /home/user/bot_ws/install/bot_controller/include/include/bot_controller
+[2.981s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/launch
+[2.981s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/launch/controller.launch.py
+[2.981s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/config
+[2.982s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/config/bot_controllers.yaml
+[2.982s] -- Installing: /home/user/bot_ws/install/bot_controller/share/ament_index/resource_index/package_run_dependencies/bot_controller
+[2.982s] -- Installing: /home/user/bot_ws/install/bot_controller/share/ament_index/resource_index/parent_prefix_path/bot_controller
+[2.982s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/environment/ament_prefix_path.sh
+[2.982s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/environment/ament_prefix_path.dsv
+[2.983s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/environment/path.sh
+[2.983s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/environment/path.dsv
+[2.983s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/local_setup.bash
+[2.983s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/local_setup.sh
+[2.983s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/local_setup.zsh
+[2.984s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/local_setup.dsv
+[2.984s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/package.dsv
+[2.984s] -- Installing: /home/user/bot_ws/install/bot_controller/share/ament_index/resource_index/packages/bot_controller
+[2.984s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/cmake/bot_controllerConfig.cmake
+[2.984s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/cmake/bot_controllerConfig-version.cmake
+[2.985s] -- Installing: /home/user/bot_ws/install/bot_controller/share/bot_controller/package.xml
+[2.987s] Invoked command in '/home/user/bot_ws/build/bot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_controller
