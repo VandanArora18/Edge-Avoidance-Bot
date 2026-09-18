@@ -1,0 +1,4 @@
+Invoking command in '/home/user/bot_ws/build/bot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_controller -- -j8 -l8
+Invoked command in '/home/user/bot_ws/build/bot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_controller -- -j8 -l8
+Invoking command in '/home/user/bot_ws/build/bot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_controller
+Invoked command in '/home/user/bot_ws/build/bot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_controller

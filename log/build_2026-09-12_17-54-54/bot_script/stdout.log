@@ -1,0 +1,26 @@
+running egg_info
+creating ../../build/bot_script/bot_script.egg-info
+writing ../../build/bot_script/bot_script.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_script/bot_script.egg-info/dependency_links.txt
+writing requirements to ../../build/bot_script/bot_script.egg-info/requires.txt
+writing top-level names to ../../build/bot_script/bot_script.egg-info/top_level.txt
+writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/bot_ws/build/bot_script/build/lib/bot_script
+copying bot_script/__init__.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+running install
+running install_lib
+creating /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+copying /home/user/bot_ws/build/bot_script/build/lib/bot_script/__init__.py -> /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+byte-compiling /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+copying resource/bot_script -> /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/bot_ws/install/bot_script/share/bot_script
+running install_egg_info
+Copying ../../build/bot_script/bot_script.egg-info to /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/user/bot_ws/build/bot_script/install.log'

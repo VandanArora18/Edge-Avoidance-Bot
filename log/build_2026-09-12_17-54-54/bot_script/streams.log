@@ -1,0 +1,28 @@
+[0.776s] Invoking command in '/home/user/bot_ws/src/bot_script': PYTHONPATH=/home/user/bot_ws/build/bot_script/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_script build --build-base /home/user/bot_ws/build/bot_script/build install --record /home/user/bot_ws/build/bot_script/install.log --single-version-externally-managed install_data
+[1.059s] running egg_info
+[1.081s] creating ../../build/bot_script/bot_script.egg-info
+[1.081s] writing ../../build/bot_script/bot_script.egg-info/PKG-INFO
+[1.082s] writing dependency_links to ../../build/bot_script/bot_script.egg-info/dependency_links.txt
+[1.082s] writing requirements to ../../build/bot_script/bot_script.egg-info/requires.txt
+[1.082s] writing top-level names to ../../build/bot_script/bot_script.egg-info/top_level.txt
+[1.083s] writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+[1.132s] reading manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+[1.133s] writing manifest file '../../build/bot_script/bot_script.egg-info/SOURCES.txt'
+[1.133s] running build
+[1.133s] running build_py
+[1.134s] creating /home/user/bot_ws/build/bot_script/build/lib/bot_script
+[1.134s] copying bot_script/__init__.py -> /home/user/bot_ws/build/bot_script/build/lib/bot_script
+[1.134s] running install
+[1.138s] running install_lib
+[1.158s] creating /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+[1.158s] copying /home/user/bot_ws/build/bot_script/build/lib/bot_script/__init__.py -> /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script
+[1.159s] byte-compiling /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script/__init__.py to __init__.cpython-310.pyc
+[1.159s] running install_data
+[1.159s] creating /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+[1.159s] copying resource/bot_script -> /home/user/bot_ws/install/bot_script/share/ament_index/resource_index/packages
+[1.159s] copying package.xml -> /home/user/bot_ws/install/bot_script/share/bot_script
+[1.159s] running install_egg_info
+[1.180s] Copying ../../build/bot_script/bot_script.egg-info to /home/user/bot_ws/install/bot_script/lib/python3.10/site-packages/bot_script-0.0.0-py3.10.egg-info
+[1.181s] running install_scripts
+[1.221s] writing list of installed files to '/home/user/bot_ws/build/bot_script/install.log'
+[1.247s] Invoked command in '/home/user/bot_ws/src/bot_script' returned '0': PYTHONPATH=/home/user/bot_ws/build/bot_script/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_script build --build-base /home/user/bot_ws/build/bot_script/build install --record /home/user/bot_ws/build/bot_script/install.log --single-version-externally-managed install_data

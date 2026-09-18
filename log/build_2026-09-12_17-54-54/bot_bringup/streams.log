@@ -1,0 +1,41 @@
+[0.018s] Invoking command in '/home/user/bot_ws/build/bot_bringup': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake /home/user/bot_ws/src/bot_bringup -DCMAKE_INSTALL_PREFIX=/home/user/bot_ws/install/bot_bringup
+[0.072s] -- The C compiler identification is GNU 11.4.0
+[0.140s] -- The CXX compiler identification is GNU 11.4.0
+[0.147s] -- Detecting C compiler ABI info
+[0.222s] -- Detecting C compiler ABI info - done
+[0.229s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.229s] -- Detecting C compile features
+[0.230s] -- Detecting C compile features - done
+[0.233s] -- Detecting CXX compiler ABI info
+[0.320s] -- Detecting CXX compiler ABI info - done
+[0.329s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.329s] -- Detecting CXX compile features
+[0.330s] -- Detecting CXX compile features - done
+[0.335s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.729s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.925s] -- Configuring done
+[0.927s] -- Generating done
+[0.929s] -- Build files have been written to: /home/user/bot_ws/build/bot_bringup
+[0.933s] Invoked command in '/home/user/bot_ws/build/bot_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake /home/user/bot_ws/src/bot_bringup -DCMAKE_INSTALL_PREFIX=/home/user/bot_ws/install/bot_bringup
+[0.936s] Invoking command in '/home/user/bot_ws/build/bot_bringup': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_bringup -- -j8 -l8
+[0.971s] Invoked command in '/home/user/bot_ws/build/bot_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_bringup -- -j8 -l8
+[0.973s] Invoking command in '/home/user/bot_ws/build/bot_bringup': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_bringup
+[0.979s] -- Install configuration: ""
+[0.980s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/launch
+[0.980s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/launch/simulated_robot.launch.py
+[0.980s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/ament_index/resource_index/package_run_dependencies/bot_bringup
+[0.980s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/ament_index/resource_index/parent_prefix_path/bot_bringup
+[0.980s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/environment/ament_prefix_path.sh
+[0.981s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/environment/ament_prefix_path.dsv
+[0.981s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/environment/path.sh
+[0.981s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/environment/path.dsv
+[0.981s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/local_setup.bash
+[0.981s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/local_setup.sh
+[0.982s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/local_setup.zsh
+[0.982s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/local_setup.dsv
+[0.982s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/package.dsv
+[0.982s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/ament_index/resource_index/packages/bot_bringup
+[0.983s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/cmake/bot_bringupConfig.cmake
+[0.983s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/cmake/bot_bringupConfig-version.cmake
+[0.983s] -- Installing: /home/user/bot_ws/install/bot_bringup/share/bot_bringup/package.xml
+[0.985s] Invoked command in '/home/user/bot_ws/build/bot_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/bot_ws/install/bot_script:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/bot_ws/install/bot_description:/home/user/bot_ws/install/bot_controller:/opt/ros/humble PYTHONPATH=/home/user/bot_ws/install/bot_script/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_bringup
