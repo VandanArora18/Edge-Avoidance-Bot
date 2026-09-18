@@ -1,0 +1,43 @@
+[0.014s] Invoking command in '/home/user/bot_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_description -- -j8 -l8
+[0.048s] Invoked command in '/home/user/bot_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/bot_ws/build/bot_description -- -j8 -l8
+[0.057s] Invoking command in '/home/user/bot_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_description
+[0.063s] -- Install configuration: ""
+[0.063s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/launch
+[0.063s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/launch/gazebo.launch.py
+[0.063s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/launch/display.launch.py
+[0.063s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/models
+[0.063s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01
+[0.063s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/materials
+[0.063s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/materials/textures
+[0.063s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/materials/textures/aws_CoffeeTable_01.png
+[0.064s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/model.sdf
+[0.065s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/meshes
+[0.065s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/meshes/aws_CoffeeTable_01_visual.DAE
+[0.065s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/meshes/aws_CoffeeTable_01_collision.DAE
+[0.065s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/models/aws_robomaker_residential_CoffeeTable_01/model.config
+[0.065s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/urdf
+[0.065s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/urdf/bot_base.xacro
+[0.065s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/urdf/bot_sensors.xacro
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/urdf/bot.urdf.xacro
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/urdf/gazebo.xacro
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/rviz
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/rviz/display.rviz
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/worlds
+[0.066s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/worlds/empty_table.world
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/worlds/empty.world
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/ament_index/resource_index/package_run_dependencies/bot_description
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/ament_index/resource_index/parent_prefix_path/bot_description
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.dsv
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/environment/path.sh
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/environment/path.dsv
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/local_setup.bash
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/local_setup.sh
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/local_setup.zsh
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/local_setup.dsv
+[0.067s] -- Installing: /home/user/bot_ws/install/bot_description/share/bot_description/package.dsv
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/ament_index/resource_index/packages/bot_description
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig.cmake
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig-version.cmake
+[0.067s] -- Up-to-date: /home/user/bot_ws/install/bot_description/share/bot_description/package.xml
+[0.068s] Invoked command in '/home/user/bot_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/bot_ws/build/bot_description
